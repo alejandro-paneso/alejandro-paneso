@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alejandro-paneso
 - 👀 I am interested in learning as much as I can this year
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python and Js
 - 💞️ I’m looking to collaborate on ... I'm looking to collaborate on ... I don't know yet
 - 📫 How to reach me ... with confidence
 
